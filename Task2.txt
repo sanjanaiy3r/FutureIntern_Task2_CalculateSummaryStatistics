@@ -1,0 +1,37 @@
+Test Dataset Summary Statistics:
+
+Mean:
+PassengerId    1095.952978
+Pclass            2.495298
+Age              26.896552
+SibSp             0.329154
+Parch             0.263323
+Fare             17.065857
+dtype: float64
+
+Median:
+PassengerId    1095.0
+Pclass            3.0
+Age              27.0
+SibSp             0.0
+Parch             0.0
+Fare             10.5
+dtype: float64
+
+Mode:
+PassengerId    892.00
+Pclass           3.00
+Age             27.00
+SibSp            0.00
+Parch            0.00
+Fare             7.75
+Name: 0, dtype: float64
+
+Std_dev:
+PassengerId    118.640177
+Pclass           0.713180
+Age              7.291674
+SibSp            0.710299
+Parch            0.726586
+Fare            13.734324
+dtype: float64
